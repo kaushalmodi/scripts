@@ -1,4 +1,5 @@
 #!/bin/tcsh -f
+# Time-stamp: <2015-05-22 10:30:53 kmodi>
 
 # This script splits the pane depending on the current panes height and width
 # The result is to not result in too narrow or too wide panes after split
